@@ -2,6 +2,9 @@
 
 This project is a simple task management application.
 
+SpringBoot version: 3.2.1
+JDK 17
+
 there are 4 available endpoints :
 
 - search
